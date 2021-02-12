@@ -1,1 +1,1 @@
-Testando o git
+Este repositório foi criado para compartilhar os meus primeiros contatos com Tecnologias Front-end e controle e versionamento de código
